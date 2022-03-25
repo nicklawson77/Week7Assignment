@@ -1,0 +1,65 @@
+title{
+    text-decoration: underline;
+    text-shadow: 30px;
+    text-emphasis-color: grey;
+    border-color: black;
+    border-width: 50%;
+    border: 50%;
+    border-style: groove;
+    background-color: blueviolet;
+}
+
+
+
+body{
+    background-color:aqua;
+    border-radius: 10%;
+    border-style: dotted;
+    border-color:brown;
+    border:20%
+
+    
+}
+h1{
+    color:yellow;
+    border-style:coral;
+    border-radius: 5%;
+    background-color: blueviolet;
+
+}
+
+#para{
+    color:brown;
+    background-color:greenyellow;
+    border-style: dashed;
+    border-color: blueviolet;
+    border:50%;
+}
+
+*{
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    align-tracks: center;
+    -ms-flex-align: center;
+
+}
+ul{
+    list-style-type: none;
+}
+.center{
+    margin-left: auto;
+    margin-right: auto;
+    background-color: darkgoldenrod;
+    color:darkgreen;
+}
+img{
+    float: right;
+}
+h2{
+    text-align: right;
+}
+#para2{
+    color: fuchsia;
+    background-color: cornsilk;
+}
